@@ -1,1 +1,1 @@
-# ai-teach-code
+# AI teaches Code
