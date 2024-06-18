@@ -1,3 +1,5 @@
+// learning rust with Copilot
+
 fn main() {
     // hello world
     println!("Hello world");
